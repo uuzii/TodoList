@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/uzi/Escritorio/Proyecto/TodoList/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="55cd2f4b2be85362c1d5b3ed9ba11675fbcc575d">
+        <dex dex="/home/uzi/Escritorio/Proyecto/TodoList/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_6b1837ea8ba038986750af3d99a8cbff9795d7d3.jar" />
+    </item>
+
+</items>
